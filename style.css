@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, san-serif;
+  margin: 20px;
+  background-color: aliceblue;
+}
+h1 {
+  color: #00A7EA;
+}
+label, select, #output, #quote {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+select {
+  padding: 10px;
+  font-size: 1em;
+  width: 50%;
+}
+#quote {
+  font-style: italic;
+  color: #555;
+}
